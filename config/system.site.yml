@@ -1,0 +1,14 @@
+uuid: f914cecc-ab6a-4527-b229-191a9cd62b2b
+name: dustin-d8-commerce
+mail: dustin.m.leblanc@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
